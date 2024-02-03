@@ -1,5 +1,4 @@
 # logo-turtle
-Primeiro projeto universitário do curso de Engenharia da Computação, disciplina de Fundamentos de Programação 1° periodo (Turma 2022.2).
 
 O jogo é uma versão simplificada do famoso jogo "Logo Turtle", que permite que o usuário controle um cursor com comandos de texto simples para desenhar formas geométricas.
 
